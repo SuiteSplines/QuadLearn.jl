@@ -1,0 +1,10 @@
+docs/build/*
+Manifest.toml
+docs/Manifest.toml
+.vscode/*
+docs/Manifest.toml
+data/*
+models*/*
+poc*.jl
+*.mp4
+models.tar.xz

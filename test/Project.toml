@@ -1,0 +1,12 @@
+[deps]
+CartesianProducts = "ddfd9c64-15e7-45fc-8e16-950f3835cae5"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+SortedSequences = "2f2e3dc8-c2cf-4b7f-b456-36845a1cbdbc"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+Algoim = "0eb9048c-21de-4c7a-bfac-056de1940b74"
+AbstractMappings = "7dac2afd-1bf6-47b8-bc94-9dcdcd19d527"
+IgaBase = "9c103fa8-ae55-49f5-92db-ab77803cf2c4"
+ImmersedSplines = "3e3b8edd-9419-4511-a852-83e823fd4317"
+IgaFormation = "3811570c-b24d-4931-9f1c-72ee5a79a1d1"
